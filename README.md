@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**aishakura/aishakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently pursuing Master of of Data Analytics & Information Systems Management at CMU.
+🌱 On a voyage to leverage data using Machine Learning solutions
+🔭 Exploring the power of Data Science
+🩺 I'm interested in healthcare, mental health, public health & epidemiology applications of data science.
+⚙️ My toolkit: Python, SQL, R & SAS
+💬 Trying to gain value out of any and every conversation
+I love the outdoors, exploring & hiking 🏕️🏔️
+I 📚 and 💃 in my free time.
+🏋️‍♀ Working out makes me happier!
+😄 Pronouns: She/Her
