@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I am Aishwarya! 
+
+
+A little about me...
 
 - 🎓 I'm currently pursuing Master of of Data Analytics & Information Systems Management at CMU.
 - 🌱 On a voyage to leverage data using Machine Learning solutions
