@@ -4,7 +4,7 @@
 
 A little about me...
 
-- 🎓 I'm currently pursuing Master of of Data Analytics & Information Systems Management at CMU.
+- 🎓 I'm studied Data Science and Healthcare Analytics at CMU.
 - 🌱 On a voyage to leverage data using Machine Learning solutions
 - 🔭 Exploring the power of Data Science
 - 🩺 I'm interested in healthcare, mental health, public health & epidemiology applications of data science.
